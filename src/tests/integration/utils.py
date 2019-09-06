@@ -72,7 +72,7 @@ def get_json_content(self, response):
 
 # Get resource schema from OpenAPI specification
 def get_resource_schema(self, resource):
-    return self.openapi['definitions'][resource]['properties']
+    return self.openapi['components']['schemas'][resource]['properties']
 
 
 # Helper function to make a web request and lightly validate the response

@@ -2,7 +2,7 @@ import _ from 'lodash';
 import config from 'config';
 import uuidv1 from 'uuid/v1';
 
-import { serializePets, serializePet } from 'api/v1/serializers/pets-serializer';
+import { serializePets, serializePet } from 'serializers/pets-serializer';
 
 import { readJsonFile, writeJsonFile } from './fs-operations';
 
