@@ -1,4 +1,4 @@
-# Express API Skeleton ![version](https://img.shields.io/badge/version-v1-blue.svg) [![openapi](https://img.shields.io/badge/openapi-2.0-green.svg)](./openapi.yaml) ![node](https://img.shields.io/badge/node-10.17-brightgreen.svg) ![npm](https://img.shields.io/badge/npm-6.11.1-orange.svg)
+# Express API Skeleton ![version](https://img.shields.io/badge/version-v1-blue.svg) [![openapi](https://img.shields.io/badge/openapi-2.0-green.svg)](./openapi.yaml) ![node](https://img.shields.io/badge/node-10.17-brightgreen.svg) ![npm](https://img.shields.io/badge/npm-6.11.1-orange.svg)[![Coverage Status](https://coveralls.io/repos/github/kalcicd/coveralls-test/badge.svg?branch=master)](https://coveralls.io/github/kalcicd/coveralls-test?branch=master)
 
 Skeleton for Express APIs. API definition is contained in the [OpenAPI specification](./openapi.yaml).
 
